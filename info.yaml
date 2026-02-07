@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     455291650850144257       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Daniel's First Project"      # Project title
+  wokwi_id:     455303220350374913       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  title:        "Simon Says"      # Project title
   author:       "Daniel Brormann"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "4-bit serializer"      # One line description of what your project does
